@@ -2,12 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b7456e5b-08b2-40f6-895c-1fea892dd4c9" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/namedconfig.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/main.js" afterPath="$PROJECT_DIR$/js/main.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Tutorial_phonegap.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="b7456e5b-08b2-40f6-895c-1fea892dd4c9" time="1411684539305" ignored="false" />
+    <file path="/Dummy.txt" changelist="b7456e5b-08b2-40f6-895c-1fea892dd4c9" time="1411685429908" ignored="false" />
     <file path="/namedconfig.xml" changelist="b7456e5b-08b2-40f6-895c-1fea892dd4c9" time="1411685383386" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -31,25 +32,25 @@
       <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0">
+            <state line="9" column="35" selection-start="196" selection-end="196" vertical-scroll-proportion="-5.625">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="main.js" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="main.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/js/main.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="4" column="69" selection-start="146" selection-end="146" vertical-scroll-proportion="0.0">
+            <state line="17" column="39" selection-start="608" selection-end="608" vertical-scroll-proportion="0.3526971">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="namedconfig.xml" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="namedconfig.xml" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/namedconfig.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="3" column="23" selection-start="166" selection-end="166" vertical-scroll-proportion="0.062240664">
+            <state line="3" column="23" selection-start="166" selection-end="166" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -74,6 +75,8 @@
     <option name="changedFiles">
       <list>
         <option value="$PROJECT_DIR$/namedconfig.xml" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/js/main.js" />
       </list>
     </option>
   </component>
@@ -237,7 +240,11 @@
       <created>1411684551715</created>
       <updated>1411684551715</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="configs">
+      <created>1411685433750</created>
+      <updated>1411685433750</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -306,7 +313,7 @@
     <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="false" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" value="tercer commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="configs" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
@@ -322,19 +329,13 @@
     <option name="FILE_HISTORY_SPLITTER_PROPORTION" value="0.6" />
     <MESSAGE value="segundo commit" />
     <MESSAGE value="tercer commit" />
+    <MESSAGE value="configs" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/js/storage/websql-store.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
           <folding />
@@ -348,16 +349,23 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/js/main.js">
+    <entry file="file://$PROJECT_DIR$/namedconfig.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="69" selection-start="146" selection-end="146" vertical-scroll-proportion="0.0">
+        <state line="3" column="23" selection-start="166" selection-end="166" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/namedconfig.xml">
+    <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="23" selection-start="166" selection-end="166" vertical-scroll-proportion="0.062240664">
+        <state line="9" column="35" selection-start="196" selection-end="196" vertical-scroll-proportion="-5.625">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="17" column="39" selection-start="608" selection-end="608" vertical-scroll-proportion="0.3526971">
           <folding />
         </state>
       </provider>
