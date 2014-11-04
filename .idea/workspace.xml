@@ -7,9 +7,9 @@
     </list>
     <ignored path="Tutorial_phonegap.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="b7456e5b-08b2-40f6-895c-1fea892dd4c9" time="1415124700522" ignored="false" />
+    <file path="/Dummy.txt" changelist="b7456e5b-08b2-40f6-895c-1fea892dd4c9" time="1415124972968" ignored="false" />
     <file path="/namedconfig.xml" changelist="b7456e5b-08b2-40f6-895c-1fea892dd4c9" time="1411685383386" ignored="false" />
-    <file path="/index.html" changelist="b7456e5b-08b2-40f6-895c-1fea892dd4c9" time="1415124957556" ignored="false" />
+    <file path="/index.html" changelist="b7456e5b-08b2-40f6-895c-1fea892dd4c9" time="1415125154199" ignored="false" />
     <file path="/HomeView.js" changelist="b7456e5b-08b2-40f6-895c-1fea892dd4c9" time="1415067741277" ignored="false" />
     <file path="/main.js" changelist="b7456e5b-08b2-40f6-895c-1fea892dd4c9" time="1411756287488" ignored="false" />
     <file path="/dispMap.js" changelist="b7456e5b-08b2-40f6-895c-1fea892dd4c9" time="1415066267592" ignored="false" />
@@ -35,7 +35,7 @@
       <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="31" column="46" selection-start="1319" selection-end="1319" vertical-scroll-proportion="0.44640753">
+            <state line="19" column="47" selection-start="945" selection-end="945" vertical-scroll-proportion="0.25206125">
               <folding>
                 <element signature="n#style#0;n#div#1;n#script#8;n#!!top" expanded="true" />
               </folding>
@@ -329,7 +329,11 @@
       <created>1415124702273</created>
       <updated>1415124702273</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="nuevas vainas">
+      <created>1415124974243</created>
+      <updated>1415124974243</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -531,7 +535,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="31" column="46" selection-start="1319" selection-end="1319" vertical-scroll-proportion="0.44640753">
+        <state line="19" column="47" selection-start="945" selection-end="945" vertical-scroll-proportion="0.25206125">
           <folding>
             <element signature="n#style#0;n#div#1;n#script#8;n#!!top" expanded="true" />
           </folding>
