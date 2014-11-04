@@ -2,11 +2,19 @@
 <script src="phonegap.js"></script>
 <script src="css/source-sans-pro.js"></script>
 <script src="lib/jquery-1.8.2.min.js"></script>
+<script src="lib/bootstrap.min.js"></script>
 <script src="js/storage/memory-store.js"></script>
 <script src="lib/handlebars.js"></script>
 <link href="css/styles.css" rel="stylesheet">
+<link href="lib/bootstrap.min.css" rel="stylesheet">
 
 <script id="home-tpl" type="text/x-handlebars-template">
+    <div class='header'><h1>Movers</h1></div>
+    <div class='search-bar'><br><br><br></div>
+    <div class="scroll"><a class="btn btn-default" href="">Menu</a></div>
+</script>
+
+<script id="home-tpl3" type="text/x-handlebars-template">
     <div class='header'><h1>Home</h1></div>
     <div class='search-bar'><input class='search-key' type="search"/></div>
     <div class="scroll"><ul class='employee-list'></ul></div>
