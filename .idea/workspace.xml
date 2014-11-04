@@ -7,10 +7,10 @@
     </list>
     <ignored path="Tutorial_phonegap.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="b7456e5b-08b2-40f6-895c-1fea892dd4c9" time="1415066593107" ignored="false" />
+    <file path="/Dummy.txt" changelist="b7456e5b-08b2-40f6-895c-1fea892dd4c9" time="1415067047008" ignored="false" />
     <file path="/namedconfig.xml" changelist="b7456e5b-08b2-40f6-895c-1fea892dd4c9" time="1411685383386" ignored="false" />
     <file path="/index.html" changelist="b7456e5b-08b2-40f6-895c-1fea892dd4c9" time="1415066565992" ignored="false" />
-    <file path="/HomeView.js" changelist="b7456e5b-08b2-40f6-895c-1fea892dd4c9" time="1415066955584" ignored="false" />
+    <file path="/HomeView.js" changelist="b7456e5b-08b2-40f6-895c-1fea892dd4c9" time="1415067741277" ignored="false" />
     <file path="/main.js" changelist="b7456e5b-08b2-40f6-895c-1fea892dd4c9" time="1411756287488" ignored="false" />
     <file path="/dispMap.js" changelist="b7456e5b-08b2-40f6-895c-1fea892dd4c9" time="1415066267592" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -55,7 +55,7 @@
       <file leaf-file-name="HomeView.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/js/HomeView.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="15" column="50" selection-start="412" selection-end="412" vertical-scroll-proportion="0.25773194">
+            <state line="20" column="87" selection-start="543" selection-end="543" vertical-scroll-proportion="0.34364262">
               <folding />
             </state>
           </provider>
@@ -332,7 +332,11 @@
       <created>1415066595606</created>
       <updated>1415066595606</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="nuevas vainas">
+      <created>1415067048811</created>
+      <updated>1415067048811</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -542,7 +546,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/js/HomeView.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="50" selection-start="412" selection-end="412" vertical-scroll-proportion="0.25773194">
+        <state line="20" column="87" selection-start="543" selection-end="543" vertical-scroll-proportion="0.34364262">
           <folding />
         </state>
       </provider>
