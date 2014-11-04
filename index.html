@@ -14,13 +14,42 @@
     <div class='header'><h1>Movers</h1></div>
     <div><br><br><br></div>
     <div class="scroll" align="center">
-        <input type="button" value="menu1"/><br>
-        <a class="btn btn-default" id="irMapa">otra boton</a>
+        <a class="btn btn-default" id="MakeMove">Make move</a><br>
+        <a class="btn btn-default" id="MoveHistory">Move history</a>
     </div>
 </script>
 
 <script id="map-tpl" type="text/x-handlebars-template">
-    <div id="geolocation" style="width: 640px; height: 1136px;"></div>
+    <div class="row">
+        <div class="col-md-9">
+            Set departure information
+        </div>
+        <div class="col-md-3">
+            <a class="btn btn-default pull-right" id="set-current-location">Use current address</a>
+        </div>
+    </div>
+    <div id="geolocation" style="height: 1136px;" class="row"></div>
+    <div class="row">
+        <div class="col-md-12">
+            <p>Address: <span id="pin-address"></span></p>
+        </div>
+        <div class="col-md-12">
+            <p>Specification: <input type="text" class="form-control" id="move-specification"/></p>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-md-12">
+            <div id="calendar"></div>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-md-12">
+            <div class="btn-group pull-right">
+                <a class="btn btn-default">Back</a>
+                <a class="btn btn-primary">Next</a>
+            </div>
+        </div>
+    </div>
 </script>
 
 <script id="home-tpl3" type="text/x-handlebars-template">
