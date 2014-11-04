@@ -54,9 +54,11 @@ var Map = function(){
 
         alert('code: ' + error.code + '\nmessage: ' + error.message + '\n');
 
-    }
+    };
 
-}
+    this.initialize();
+
+};
 
 Map.template = Handlebars.compile($("#map-tpl").html());
 
