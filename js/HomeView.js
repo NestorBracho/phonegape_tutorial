@@ -11,6 +11,12 @@ var HomeView = function(store) {
         });
     }
 
+    this.irMapa = function(){
+
+        $(".scroll").html(HomeView.mapTemplate());
+
+    }
+
     this.initialize = function() {
         // Define a div wrapper for the view. The div wrapper is used to attach events.
         this.el = $('<div/>');
@@ -24,3 +30,4 @@ var HomeView = function(store) {
 
 HomeView.template = Handlebars.compile($("#home-tpl").html());
 HomeView.liTemplate = Handlebars.compile($("#employee-li-tpl").html());
+HomeView.mapTemplate = Handlebars.compile($("#map-tpl").html());
