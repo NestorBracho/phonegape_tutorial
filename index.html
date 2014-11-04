@@ -5,13 +5,21 @@
 <script src="lib/bootstrap.min.js"></script>
 <script src="js/storage/memory-store.js"></script>
 <script src="lib/handlebars.js"></script>
+<script src="http://maps.googleapis.com/maps/api/js?key=AIzaSyCNDjO_xC-ro97t6uJeubwr2-oF_1lFX_A&sensor=false"></script>
 <link href="css/styles.css" rel="stylesheet">
 <link href="lib/bootstrap.min.css" rel="stylesheet">
 
 <script id="home-tpl" type="text/x-handlebars-template">
     <div class='header'><h1>Movers</h1></div>
     <div class='search-bar'><br><br><br></div>
-    <div class="scroll" align="center"><input type="button" value="menu1"/><br><a href="" class="btn btn-default">otra boton</a></div>
+    <div class="scroll" align="center">
+        <input type="button" value="menu1"/><br>
+        <a href="" class="btn btn-default" id="irMapa">otra boton</a>
+    </div>
+</script>
+
+<script id="map-tpl" type="text/x-handlebars-template">
+<div id="geolocation" style="width: 640px; height: 1136px;"></div>
 </script>
 
 <script id="home-tpl3" type="text/x-handlebars-template">
@@ -46,4 +54,5 @@
 
 <script src="js/EmployeeView.js"></script>
 <script src="js/HomeView.js"></script>
+<script src="js/MapView.js"></script>
 <script src="js/main.js"></script>
