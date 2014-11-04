@@ -13,7 +13,7 @@ var HomeView = function(store) {
 
     this.irMapa = function(){
 
-        $(".scroll").html(HomeView.mapTemplate());
+        $('.scroll').html(HomeView.mapTemplate());
 
     }
 
